@@ -1,0 +1,17 @@
+*{
+    margin-top: 50px;
+}
+
+.table{
+    text-align: center;
+}
+
+.table tr td{
+    color: #87F416;
+    font-weight: bold;
+}
+
+.estilo01{
+    color: #8A9183;
+    font-weight: normal;
+}
